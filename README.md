@@ -1,7 +1,5 @@
 # Awesome Curated Links
 
----
-
 ## Laravel
 
 * <https://laravel.com/docs/5.5/eloquent#local-scopes>
